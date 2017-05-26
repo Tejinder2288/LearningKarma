@@ -1,0 +1,17 @@
+{
+  "name": "Karma",
+  "description": "Karma Test app",
+  "main": "server.js",
+  "authors": [
+    "Tejinder"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
